@@ -1,1 +1,1 @@
-# mini-memory
+  This is a mini-memory game.
